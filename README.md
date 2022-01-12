@@ -1,16 +1,27 @@
 ### Hi there 👋
+My name is Kevin.
 
-<!--
-**KEV-MA/KEV-MA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```Currently learning about...```
 
-Here are some ideas to get you started:
+- Embedded Programming using C++, Cmake
+- CFD Simulation using ANSYS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```UW ORBITAL TEAM (Cubesats) - Communications Subteam```
+
+- Radio Modulation Research
+- Link Budget Calculations
+- Custom Transceiver Design and Part Selection
+
+```UW WARG TEAM (Autonomous Drones) - Computer Vision Subteam```
+
+- Python Interface Classes for USB, UART
+
+```UW FOMULA MOTORSPORTS (Race Cars) - Mechanical Subteam Tasks```
+
+- Car Part Modelling
+- CFD Simulation on Models
+
+```UW ROBOTICS TEAM (Robots) - Firmware Subteam```
+- ...nothing much yet
+
+
